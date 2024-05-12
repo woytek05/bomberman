@@ -1,0 +1,13 @@
+node_modules/
+vendor/
+
+*.js
+*.js.map
+
+*.phpc
+*.php~
+*.tmp
+
+.vscode/
+.idea/
+*.log
